@@ -6,6 +6,11 @@ I’ve been building boring, reliable backend systems for more than a decade.
 
 ---
 
+### Many thanks to my co-author Bashik
+<img width="512" height="512" alt="blobashik" src="https://github.com/user-attachments/assets/943dba57-848b-4f55-957f-16f3bab50fb6" />
+
+---
+
 ### What I love to do
 - Backend engineering  
 - System architecture  
@@ -35,3 +40,6 @@ I’ve been building boring, reliable backend systems for more than a decade.
 ## Links
 - GitHub: https://github.com/verlihirsh  
 - LinkedIn: https://www.linkedin.com/in/chhlga
+
+---
+
