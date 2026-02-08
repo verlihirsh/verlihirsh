@@ -7,7 +7,7 @@ I’ve been building boring, reliable backend systems for more than a decade.
 ---
 
 ### Many thanks to my co-author Bashik
-<img width="512" height="512" alt="blobashik" src="https://github.com/user-attachments/assets/943dba57-848b-4f55-957f-16f3bab50fb6" />
+<img width="254" height="254" alt="blobashik" src="https://github.com/user-attachments/assets/943dba57-848b-4f55-957f-16f3bab50fb6" />
 
 ---
 
