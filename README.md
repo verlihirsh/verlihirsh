@@ -40,6 +40,6 @@ All my code co-authored and approved by [Bashik](bashik.md)
 ---
 
 ## Links
-- GitHub: https://github.com/verlihirsh  
+- GitHub: https://github.com/chhlga
 - LinkedIn: https://www.linkedin.com/in/chhlga
 
