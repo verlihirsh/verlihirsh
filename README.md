@@ -34,8 +34,8 @@ All my code co-authored and approved by [Bashik](bashik.md)
 
 ### Bashik's curated list of repositories and resources. Check it out!
 
-- [Dotfiles](https://github.com/verlihirsh/dotfiles): My personal configuration files for various tools and environments.
-- [Jelvim](https://github.com/verlihirsh/jelvim): My lovely config for best text editor ever.
+- [Dotfiles](https://github.com/chhlga/dotfiles): My personal configuration files for various tools and environments.
+- [Jelvim](https://github.com/chhlga/bvim): My lovely config for best text editor ever.
 
 ---
 
